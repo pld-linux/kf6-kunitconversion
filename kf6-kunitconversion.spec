@@ -57,6 +57,30 @@ liters, gallons). The following areas are supported:
 - Velocity
 - Volume
 
+%description -l pl.UTF-8
+KUnitConversion dostarcza funkcje do konwersji wartości w różnych
+jednostkach fizycznych. Wspiera różne przedrostki (np. kilo, mega,
+giga) a także konwersję między rożnymi systemami miar (np. litry,
+galony). Następują typy jednostek są wspierane:
+
+- Przyspieszenie
+- Kąty
+- Powierzchnia
+- Waluta
+- Gęstość
+- Energia
+- Siła
+- Częstotliwość
+- Energoszczędność paliwa
+- Długość
+- Masa
+- Moc
+- Ciśnienie
+- Temperatura
+- Czas
+- Prędkość
+- Objętość
+
 %package devel
 Summary:	Header files for %{kfname} development
 Summary(pl.UTF-8):	Pliki nagłówkowe dla programistów używających %{kfname}
